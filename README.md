@@ -1,7 +1,8 @@
 # Simple-IP-detail-using-C-language
 ## Using the `subnet` Script
 
-The `subnet` script calculates network details based on an IP address and subnet mask provided by the user. Here’s how to use it and understand its output.
+The `subnet` script calculates network details based on an IP address and subnet 
+mask provided by the user. Here’s how to use it and understand its output.
 
 ### Running the Script
 
